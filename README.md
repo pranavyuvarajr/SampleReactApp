@@ -1,7 +1,7 @@
 # My React Application
 
 ## Overview
-This is a React application named "satwik" that features an ambient colorful background. It is designed to be easily deployable to both EC2 and Docker environments.
+This is a React application named "MyReactApp" that features an ambient colorful background. It is designed to be easily deployable to both EC2 and Docker environments.
 
 ## Project Structure
 ```
