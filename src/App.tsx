@@ -4,8 +4,8 @@ import './styles/background.css';
 const App: React.FC = () => {
   return (
     <div className="app">
-      <h1>Welcome to Satwik</h1>
-      <p>This application has an ambient colorful background.</p>
+      <h1>Welcome to Myworld</h1>
+      <p>This application has an ambient colorful background</p>
     </div>
   );
 };
