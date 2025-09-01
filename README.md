@@ -1,11 +1,11 @@
-# Satwik React Application
+# My React Application
 
 ## Overview
 This is a React application named "satwik" that features an ambient colorful background. It is designed to be easily deployable to both EC2 and Docker environments.
 
 ## Project Structure
 ```
-satwik
+MyRepo
 ├── public
 │   └── index.html
 ├── src
@@ -34,7 +34,7 @@ satwik
 1. Clone the repository:
    ```
    git clone <repository-url>
-   cd satwik
+   cd MyRepo
    ```
 
 2. Install dependencies:
@@ -61,12 +61,12 @@ This will generate a `build` directory containing the optimized application.
 ### Docker Deployment
 1. Build the Docker image:
    ```
-   docker build -t satwik .
+   docker build -t reactapp .
    ```
 
 2. Run the Docker container:
    ```
-   docker run -p 3000:3000 satwik
+   docker run -p 3000:3000 reactapp
    ```
 
 ### EC2 Deployment
