@@ -5,7 +5,7 @@ const App: React.FC = () => {
   return (
     <div className="app">
       <h1>Welcome to Myworld</h1>
-      <p>This application has an ambient colorful background</p>
+      <p>Happy Teachers Day</p>
     </div>
   );
 };
